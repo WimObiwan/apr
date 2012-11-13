@@ -1,7 +1,12 @@
 
 # Visual studio
 *.vcproj.*.user
-Debug*/
-Release*/
+Debug/
+Release/
+LibR/
+LibD/
 *.suo
 *.ncb
+include/apr.h
+include/apu_want.h
+include/private/apu_select_dbm.h
