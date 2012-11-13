@@ -1,0 +1,7 @@
+
+# Visual studio
+*.vcproj.*.user
+Debug*/
+Release*/
+*.suo
+*.ncb
